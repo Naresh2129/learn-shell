@@ -9,3 +9,4 @@ shell operators
 shell control flow
 shell functions
 shell debugging
+shell scripting used for automation
