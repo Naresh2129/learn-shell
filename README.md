@@ -10,3 +10,4 @@ shell control flow
 shell functions
 shell debugging
 shell scripting used for automation
+there are many different types of shells
